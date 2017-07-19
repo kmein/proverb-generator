@@ -1,0 +1,8 @@
+[package]
+authors = ["kmein <kieran.meinhardt@gmail.com>"]
+name = "proverb"
+version = "0.1.0"
+
+[dependencies]
+reqwest = "0.7.1"
+scraper = "0.4.0"
